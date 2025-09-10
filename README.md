@@ -9,3 +9,4 @@ The following components are available:
 - [Table (filtering, color-coding, smart grouping)](https://github.com/YnP-ME/components-docs/tree/main/components/table.md)
 - [Chart](https://github.com/YnP-ME/components-docs/tree/main/components/chart.md)
 - [Map with Overlays and Drill-downs](https://github.com/YnP-ME/components-docs/tree/main/components/map.md)
+- [Chat / Assistant Interface](https://github.com/YnP-ME/components-docs/tree/main/components/chat.md)  
