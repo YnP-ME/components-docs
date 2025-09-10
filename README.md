@@ -11,3 +11,4 @@ The following components are available:
 - [Map with Overlays and Drill-downs](https://github.com/YnP-ME/components-docs/tree/main/components/map.md)
 - [Chat / Assistant Interface](https://github.com/YnP-ME/components-docs/tree/main/components/chat.md)
 - [Geo-data Timelapse](https://github.com/YnP-ME/components-docs/tree/main/components/timelapse.md)
+- [KPI Card](https://github.com/YnP-ME/components-docs/tree/main/components/kpi-card.md)
