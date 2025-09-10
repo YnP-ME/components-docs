@@ -1,4 +1,4 @@
-# LineChart
+# Chart
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Table
+# Table (filtering, color-coding, smart grouping)
 
 ## Overview
 
